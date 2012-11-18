@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>﻿<!DOCTYPE HTML><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>hello thinkphp!</title></head><body><h1>just demo</h1><?php highlight_file(LIB_PATH.'Action/IndexAction.class.php'); ?></body></html>
